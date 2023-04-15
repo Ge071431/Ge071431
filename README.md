@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gesane Caroline.
 - 👀 I’m interested in desenvolver minhas habilidades como Agilista.
 - 🌱 I’m currently learning sobre o framework Scrum e o método Kanban.
-- 💞️ I’m looking to collaborate on no projeto Bora Rachar Sou Júnior Lab.
+- 💞️ I’m looking to colaborar on no projeto Bora Rachar Sou Júnior Lab.
 - 📫 How to reach me https://www.linkedin.com/in/gesane-caroline
 
 <!---
